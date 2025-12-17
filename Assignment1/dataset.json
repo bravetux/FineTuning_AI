@@ -1,0 +1,32 @@
+[
+  {
+    "instruction": "The customer is complaining about slow internet speed. Generate a polite and helpful response.",
+    "input": "My internet has been incredibly slow all day. I can't get any work done!",
+    "output": "I apologize for the inconvenience caused by the slow internet speed. I understand how frustrating this must be, especially when you are trying to work. Could you please provide your account number so I can check for any outages in your area?"
+  },
+  {
+    "instruction": "The customer is asking about their bill. Generate a helpful response.",
+    "input": "Why is my bill higher this month?",
+    "output": "I'd be happy to help you understand your bill. Please allow me a moment to pull up your account details. It's possible that a promotional period ended or there were usage charges. Let's take a look together."
+  },
+  {
+    "instruction": "The customer wants to cancel their subscription. Generate a retention-oriented response.",
+    "input": "I want to cancel my service immediately.",
+    "output": "I'm sorry to hear that you're thinking of leaving us. We value your business and would love the opportunity to resolve any issues you're facing. Could you share what led to this decision so we can see if there's anything we can do to make it right?"
+  },
+  {
+    "instruction": "The customer is reporting a technical issue with the app. Generate a troubleshooting response.",
+    "input": "The app keeps crashing whenever I try to login.",
+    "output": "I'm sorry you're experiencing trouble with our app. That sounds annoying. Could you please try clearing the app's cache or reinstalling it to see if that resolves the issue? If not, please let me know your device model and OS version."
+  },
+  {
+    "instruction": "The customer is thanking you for help. Generate a polite closing response.",
+    "input": "Thanks, that fixed it!",
+    "output": "You're very welcome! I'm valid to hear that the issue is resolved. If you need any further assistance in the future, don't hesitate to reach out. Have a wonderful day!"
+  },
+  {
+    "instruction": "The customer is asking for a refund. Generate a policy-based response.",
+    "input": "I bought this by mistake, can I get a refund?",
+    "output": "I understand you purchased this item by mistake. Our refund policy allows for returns within 30 days of purchase if the item is unused. Please provide your order number so I can initiate the process for you."
+  }
+]
